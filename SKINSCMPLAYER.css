@@ -1,0 +1,28 @@
+#player,#player a{color:#fff;}
+#player{background:url(https://i.imgur.com/o1wuJh6.png); background-position:bottom;}
+#player .mainImage{background:url(https://i.imgur.com/YH0AthS.png);}
+
+#player #baseLeft{ width:93px; }
+#player #baseRight{ width:145px;}
+#player .button{  width:22px; }
+#player #play{ background:transparent;}
+#player #play,#player #pause{ left:32px; }
+#player #previous{ left:8px; }
+#player #next{ left:55px; }
+#player #title{ left:95px;  }
+#player #tooltip{ right:196px; }
+#player #timer{ right:122px;  }
+#player #list{ right:5px; }
+
+#player #seeker{ right:320px; }
+#player #seekerBase{ border-color:#fff; }
+#player #seekerBuffered{ background-color:#fff; }
+#player #seekerSliderBase{ background-color:#CDCDE2; }
+
+#player #volume{ width:80px; right:33px; }
+#player #volumeSlider{ width:11px; height:12px; margin-top:07px; background:#fff; }
+
+#playlist,#playlist .module,#playlist h3{border-bottom: 1px #CDCDE2 solid;}
+#playlist h3{color: #CDCDE2; text-align:center; text-transform:uppercase;}
+#playlist .even{background-color:#000000;border-bottom: 1px #CDCDE2 solid;}
+#playlist .odd{ background-color:#000000;border-dashed: 1px #CDCDE2 solid;}
